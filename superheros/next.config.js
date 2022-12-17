@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env:{
-    MONGO_URL:"mongodb+srv://ayushrastogi689:Krishnaradha9988@@//@cluster0.uf0wepi.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_URL:"mongodb+srv://ayush:3IQQSODwFEc0hdYL@cluster0.mjmg9go.mongodb.net/?retryWrites=true&w=majority"
   }
 }
 
